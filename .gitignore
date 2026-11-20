@@ -1,0 +1,10 @@
+dist/
+site.tar.gz
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.sqlite*
+.wrangler/
